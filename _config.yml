@@ -5,9 +5,9 @@
 url: http://jfoshee.github.io/try-octopress
 title: My Octopress Blog
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: J Foshee
 simple_search: http://google.com/search
-description:
+description: Trying Octopress for the first time
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
