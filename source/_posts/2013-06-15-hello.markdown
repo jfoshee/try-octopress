@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Hello"
+date: 2013-06-15 18:22
+comments: true
+categories: 
+---
+Hello, World via C9, GitHub and Octopress.
