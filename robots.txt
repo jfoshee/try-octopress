@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://jfoshee.github.io/try-octopress/sitemap.xml 
